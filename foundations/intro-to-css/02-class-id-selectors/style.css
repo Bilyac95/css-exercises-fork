@@ -1,0 +1,19 @@
+.class3,
+.class135{
+color: black;
+background-color: rgb(240, 192, 192);
+font-size: 20px;
+font-family:Verdana, "DejaVu Sans", sans-serif ;
+}
+.class3{
+    font-size:24px;
+}
+#id2{
+    color: blue;
+    font-size: 36px;
+}
+#id4{
+    background-color: rgb(140, 216, 140);
+    font-size: 24px;
+    font-weight: 700;
+}
